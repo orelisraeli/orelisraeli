@@ -9,6 +9,7 @@
 ![react](./images/react.svg)
 ![flutter](./images/flutter.svg)
 ![angular](./images/angular.svg)
+![docker](./images/docker.svg)
 ![vscode](./images/vscode.svg)
 
 <!--
