@@ -2,9 +2,10 @@
 
 **Technologies & Tools:**
 
-![js](./images/csharp.svg)
+![cs](./images/csharp.svg)
 ![js](./images/javascript.svg)
 ![ts](./images/typescript.svg)
+![node](./images/node.svg)
 ![react](./images/react.svg)
 ![flutter](./images/flutter.svg)
 ![angular](./images/angular.svg)
