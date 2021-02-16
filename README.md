@@ -6,7 +6,8 @@
 ![js](./images/javascript.svg)
 ![ts](./images/typescript.svg)
 ![react](./images/react.svg)
-![react](./images/angular.svg)
+![flutter](./images/flutter.svg)
+![angular](./images/angular.svg)
 ![vscode](./images/vscode.svg)
 
 <!--
