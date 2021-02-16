@@ -1,3 +1,5 @@
+![code](./images/code.svg)
+
 ### Hi there 👋
 
 <!--
