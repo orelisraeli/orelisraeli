@@ -1,10 +1,13 @@
 ![code](./images/code.svg)
 
-**Technologies:**
+**Technologies & Tools:**
 
 ![js](./images/csharp.svg)
 ![js](./images/javascript.svg)
 ![ts](./images/typescript.svg)
+![react](./images/react.svg)
+![react](./images/angular.svg)
+![vscode](./images/vscode.svg)
 
 <!--
 **orelisraeli/orelisraeli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>angular</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="angular" fill-rule="nonzero">
+            <polygon id="Path" fill="#DD0031" points="16 0 16 0 16 0 0.153191489 5.312 2.57021277 25.008 16 32 16 32 16 32 29.4297872 25.008 31.8468085 5.312"></polygon>
+            <polygon id="Path" fill="#C3002F" points="16 0 16 3.552 16 3.536 16 19.744 16 19.744 16 32 16 32 29.4297872 25.008 31.8468085 5.312"></polygon>
+            <path d="M16,3.536 L6.09361702,24.416 L6.09361702,24.416 L9.78723404,24.416 L9.78723404,24.416 L11.7787234,19.744 L20.187234,19.744 L22.1787234,24.416 L22.1787234,24.416 L25.8723404,24.416 L25.8723404,24.416 L16,3.536 L16,3.536 L16,3.536 L16,3.536 L16,3.536 Z M18.893617,16.864 L13.106383,16.864 L16,10.32 L18.893617,16.864 Z" id="Shape" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>
