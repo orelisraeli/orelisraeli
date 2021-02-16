@@ -2,6 +2,12 @@
 
 ### Hi there 👋
 
+**Technologies:**
+
+![js](./images/C_Sharp-logo.svg)
+![js](./images/javascript-logo.svg)
+![ts](./images/typescript-logo.svg)
+
 <!--
 **orelisraeli/orelisraeli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
